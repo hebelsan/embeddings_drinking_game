@@ -1,0 +1,4 @@
+- only choose "good" words as target word
+- reroll the random word
+- not allow taking subwords of the target word
+- support also englisch vocab
